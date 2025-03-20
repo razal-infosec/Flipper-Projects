@@ -40,6 +40,6 @@ WPA-Handshake/screenshots/
 📢 Connect With Me
 📌 GitHub: razal-infosec
 📌 LinkedIn: Razal Muhammed
-📌 Twitter: @razal_infosec
+
 
 🔔 Stay tuned for more updates! 🚀
